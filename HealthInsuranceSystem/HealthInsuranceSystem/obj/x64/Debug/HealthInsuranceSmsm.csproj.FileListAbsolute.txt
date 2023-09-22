@@ -1,0 +1,9 @@
+C:\Users\Muhab\documents\visual studio 2013\Projects\HealthInsuranceSmsm\HealthInsuranceSmsm\bin\x64\Debug\HealthInsuranceSmsm.exe.config
+C:\Users\Muhab\documents\visual studio 2013\Projects\HealthInsuranceSmsm\HealthInsuranceSmsm\bin\x64\Debug\HealthInsuranceSmsm.exe
+C:\Users\Muhab\documents\visual studio 2013\Projects\HealthInsuranceSmsm\HealthInsuranceSmsm\bin\x64\Debug\HealthInsuranceSmsm.pdb
+C:\Users\Muhab\documents\visual studio 2013\Projects\HealthInsuranceSmsm\HealthInsuranceSmsm\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Muhab\documents\visual studio 2013\Projects\HealthInsuranceSmsm\HealthInsuranceSmsm\obj\x64\Debug\HealthInsuranceSmsm.ConnectedForm.resources
+C:\Users\Muhab\documents\visual studio 2013\Projects\HealthInsuranceSmsm\HealthInsuranceSmsm\obj\x64\Debug\HealthInsuranceSmsm.Properties.Resources.resources
+C:\Users\Muhab\documents\visual studio 2013\Projects\HealthInsuranceSmsm\HealthInsuranceSmsm\obj\x64\Debug\HealthInsuranceSmsm.csproj.GenerateResource.Cache
+C:\Users\Muhab\documents\visual studio 2013\Projects\HealthInsuranceSmsm\HealthInsuranceSmsm\obj\x64\Debug\HealthInsuranceSmsm.exe
+C:\Users\Muhab\documents\visual studio 2013\Projects\HealthInsuranceSmsm\HealthInsuranceSmsm\obj\x64\Debug\HealthInsuranceSmsm.pdb
